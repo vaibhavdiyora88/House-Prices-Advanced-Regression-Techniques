@@ -28,3 +28,5 @@ Comparing both the following dashboards we can see that, the sake condition of â
 
 <img src="https://github.com/vaibhavdiyora88/house_prices_advanced_regression_techniques/blob/master/EDA%20Images/Image2.png">
 <img src="https://github.com/vaibhavdiyora88/house_prices_advanced_regression_techniques/blob/master/EDA%20Images/Image3.png">
+
+Competition: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
